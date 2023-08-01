@@ -6,7 +6,7 @@ Check out my operating system [Blueberry OS](https://github.com/NicoDerp/Blueber
 
 ## Stats
 
-[![NicoDerps's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoDerp)](https://github.com/anuraghazra/github-readme-stats)
+[![NicoDerps's GitHub stats](https://github-readme-stats-three-tau-37.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
