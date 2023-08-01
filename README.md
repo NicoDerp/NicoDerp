@@ -6,5 +6,5 @@ Check out my operating system [Blueberry OS](https://github.com/NicoDerp/Blueber
 
 ## Languages
 
-C, Polar & Python
+C, x86 and 6502 assembly, Polar & Python
 
